@@ -1,0 +1,9 @@
+--------------------------------------- cara run ----------------------------------------
+
+1. bisa run di terminal IDE / langsung run via file kalo udah install python
+2. buka terminal -> masuk ke direktori folder ini 
+3. ketikan command " pip install -r requirements.txt " -> untuk menginstall semua library yang dipake / dilist
+4. buka / run file " run_karepmu.py " 
+5. turu
+
+#kitakitaae 
