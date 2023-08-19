@@ -4,6 +4,7 @@
 Only programs around simple libraries that are coded using the python language. And this is a big assignment that I did in college
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ## Library
 
